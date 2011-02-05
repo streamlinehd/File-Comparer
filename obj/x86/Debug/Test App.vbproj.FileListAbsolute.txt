@@ -9,3 +9,6 @@ C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\D
 C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\File Comparer.exe
 C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\File Comparer.xml
 C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\File Comparer.pdb
+C:\Users\Frank\File-Comparer\obj\x86\Debug\File Comparer.exe
+C:\Users\Frank\File-Comparer\obj\x86\Debug\File Comparer.xml
+C:\Users\Frank\File-Comparer\obj\x86\Debug\File Comparer.pdb
