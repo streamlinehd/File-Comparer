@@ -1,0 +1,11 @@
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\bin\Debug\File Comparer.exe
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\bin\Debug\File Comparer.pdb
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\bin\Debug\File Comparer.xml
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\FileComparer.Form1.resources
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\FileComparer.Resources.resources
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\File Comparer.exe
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\File Comparer.xml
+C:\Users\Frank\Documents\Visual Studio 2010\Projects\Test App\Test App\obj\x86\Debug\File Comparer.pdb
